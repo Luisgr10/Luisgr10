@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs, python and flask**
 
-- 📫 How to reach me **guirof5.6@gmail.com**
+- 📫 How to reach me **Luijo915@hotmail.com**
 
 - ⚡ Fun fact **i'm also a dentist**
 
