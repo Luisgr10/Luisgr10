@@ -6,7 +6,7 @@
 
 ## About me:
 
-- 🔭 I’m currently working on [Beatbook](https://github.com/4GeeksAcademy/BeatBooK.git)
+- 🔭 I’m currently working on [Las Canas de Frida]([https://github.com/4GeeksAcademy/BeatBooK.git](https://github.com/Luisgr10/Web-Las-Canas-de-Frida.git))
 
 - 🌱 I’m currently learning **ReactJs, python and flask**
 
