@@ -6,7 +6,7 @@
 
 ## About me:
 
-- 🔭 I’m currently working on [Las Canas de Frida](Bubbo)
+- 🔭 I’m currently working on **Bubbo**
 
 - 🌱 I’m currently learning **React Native**
 
