@@ -6,9 +6,9 @@
 
 ## About me:
 
-- 🔭 I’m currently working on [Las Canas de Frida](https://github.com/Luisgr10/Web-Las-Canas-de-Frida.git)
+- 🔭 I’m currently working on [Las Canas de Frida](Bubbo)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **Luijo915@hotmail.com**
 
