@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A full stack developer</h3>
 <br>
-
-<img src="https://media.licdn.com/dms/image/D4D16AQG-LUCgDGVcKQ/profile-displaybackgroundimage-shrink_350_1400/0/1712226013043?e=1717632000&v=beta&t=cd7DYLKl8TPuNopeifzSdCOH76C4ke6hGE9YW5MTf5k">
-
 ## About me:
 
 - 🔭 I’m currently working on **Bubbo**
