@@ -1,26 +1,18 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A full stack developer</h3>
+<h3 align="center">Full stack developer</h3>
 <br>
 
 ## About me:
 
-- 🔭 I’m currently working on **Bubbo**
+- 👨‍💻 I’m currently working on **4 Geeks Academy**
 
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently growing my skills in **React**
+  
+- 🌱 I’m diving into **Agile project management** as a **Scrum Master**  
 
-- 📫 How to reach me **Luijo915@hotmail.com**
+- 📫 How to reach me **luisguilarter@gmail.com**
 
 - ⚡ Fun fact **i'm also a dentist**
-
-## Connect with me:
-<br>
-
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/luis0wn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luis0wn/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luis guilarte rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis guilarte rodriguez" height="30" width="40" /></a>
-</p>
-
-<br>
 
 ## Languages and Tools
 
