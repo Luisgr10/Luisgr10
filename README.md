@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">Full stack developer</h3>
-<br>
+<h1 align="center" style="font-size: 2.5em;">👋 Hi, I'm Luis!</h1>
+<h3 align="center" style="font-size: 1.8em;">Full Stack Developer | Learning Agile & Scrum</h3>
+
+<p align="center" style="font-size: 1.2em;">
+  💻 Building web experiences with React 
+  📈 Exploring Agile practices 
+  ☕ Fueling my code with coffee & continuous learning 🚀  
+</p>
 
 ## About me:
 
@@ -8,7 +13,7 @@
 
 - 🔭 I’m currently growing my skills in **React**
   
-- 🌱 I’m diving into **Agile project management** as a **Scrum Master**  
+- 🌱 I’m diving into **Agile practices** with a focus on **Scrum** as a **Scrum Master**
 
 - 📫 How to reach me **luisguilarter@gmail.com**
 
